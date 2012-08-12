@@ -130,7 +130,6 @@ mission1.deploy_rovers
 mission1.control_rover
 mission1.report_position
 
-# mission1.debug
 
 
 
